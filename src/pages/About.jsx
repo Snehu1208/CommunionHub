@@ -14,7 +14,7 @@ function About() {
       </p>
 
       <div className="mt-6 flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
-        <a href="" target="_blank" rel="noopener noreferrer"
+        <a href=""  rel="noopener noreferrer"
           className="px-6 py-3 bg-blue-600 text-white rounded-lg shadow-md 
                      hover:bg-blue-700 transition-all transform hover:scale-105 text-center">
           Learn More
